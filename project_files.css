@@ -1,0 +1,38 @@
+.headings5{
+    color:#000000 ;
+    font-size: 35px;
+    font-family: kg happy;
+}
+
+body{
+    overflow: scroll;
+    background-color: rgb(105, 105, 105);
+}
+
+.names
+{
+    color:#000000 ;
+    font-size: 28px;
+    font-family: kg happy;
+}
+
+.extra{
+    color:rgb(85, 213, 218);
+    font-family: kg happy;
+    font-size: 20px;
+}
+
+.imgs
+{
+    width: 350px;
+    height: 350px;
+}
+
+#back_btn_2{
+    width: 100px;
+    height: 50px;
+    font-size: 28px;
+    font-family: coolvetica;
+    background-color: cadetblue;
+    margin: 10px;
+}
